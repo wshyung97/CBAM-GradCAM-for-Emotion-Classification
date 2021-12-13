@@ -24,7 +24,7 @@ https://github.com/jacobgil/pytorch-grad-cam 의 Library을 사용하였다.
 
 (설치법: pip install grad-cam)
 
-사용한 코드는 Grad-CAM.ipynb 참고.
+사용한 코드는 GradCAM.ipynb 참고.
 
 ## 3. Accurcy & Loss 시각화
 
